@@ -1,0 +1,7 @@
+C:\Muhammed\LoopService\obj\Debug\LoopService.csproj.CoreCompileInputs.cache
+C:\Muhammed\LoopService\bin\Debug\LoopService.exe.config
+C:\Muhammed\LoopService\bin\Debug\LoopService.exe
+C:\Muhammed\LoopService\bin\Debug\LoopService.pdb
+C:\Muhammed\LoopService\obj\Debug\LoopService.csprojResolveAssemblyReference.cache
+C:\Muhammed\LoopService\obj\Debug\LoopService.exe
+C:\Muhammed\LoopService\obj\Debug\LoopService.pdb
