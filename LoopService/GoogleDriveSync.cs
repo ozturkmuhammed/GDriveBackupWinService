@@ -144,7 +144,7 @@ namespace LoopService
             {
                 return folderid;
             }
-            if (parentid!="")
+            if (parentid != "")
             {
                 newFile.Parents = new string[] { parentid };
             }
@@ -172,7 +172,7 @@ namespace LoopService
                 }
             }
 
-            if (parentid=="" && files.Count > 0)
+            if (parentid == "" && files.Count > 0)
             {
                 return files[0].Id;
             }
@@ -278,7 +278,7 @@ namespace LoopService
         }
         public List<string> GetBackupFolderFiles()
         {
-            string path = @"C:\TaskBackup";
+            string path = __GoogleDriveConfigInfoAuth.BACKUPDIRECTORY;
             if (!Directory.Exists(path))
             {
                 Directory.CreateDirectory(path);
